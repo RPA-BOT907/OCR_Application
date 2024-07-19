@@ -29,7 +29,7 @@ def extract_plain_text(image_text):
 
 # Initialize the LLM
 def Initialize_llm():
-    llm = Ollama(model="llama3", temperature=1, format='json')
+    llm = Ollama(model="Mistral", temperature=1, format='json')
     return llm
 
 # Custom prompt template
