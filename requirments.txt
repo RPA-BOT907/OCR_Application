@@ -7,3 +7,8 @@ protobuf==3.20.2
 streamlit
 langchain
 langchain-community
+openpyxl
+zipfile
+logging
+os
+json
