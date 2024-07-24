@@ -34,11 +34,8 @@ def Initialize_llm():
 
 # Custom prompt template
 prompt_template = """
-<<<<<<< HEAD
+
 You can as a text summarization specialist. Extract key information from this text in the form of key-value pairs.
-=======
-You can act as a text summarization specialist. Extract key information from this text in the form of key-value pairs.
->>>>>>> origin/master
 
 Text:
 {plain_text}

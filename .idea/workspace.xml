@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7d7b5fd-eded-4bc4-9ea7-24d0b683e156" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/temp_image.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,5 +125,6 @@
     <MESSAGE value="new code2" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
