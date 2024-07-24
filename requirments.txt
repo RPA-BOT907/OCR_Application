@@ -1,9 +1,0 @@
-paddleocr~=2.8.0
-pillow~=10.4.0
-paddlepaddle==3.0.0b0
-setuptools
-requests
-protobuf==3.20.2
-streamlit
-langchain
-langchain-community
